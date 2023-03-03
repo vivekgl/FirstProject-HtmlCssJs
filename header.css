@@ -1,0 +1,60 @@
+body{
+    margin:0px;
+}
+
+.nav-container,.div-container,.name-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.name-container{
+    justify-content: end;
+    margin-left: 400px;
+}
+
+.img-logo{
+    width: 31.26px;
+    height: 23px;
+    margin-right: 10px;
+    margin-left: 50px;
+}
+.fashion{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 60px;
+}
+h3,.sign-up-btn{
+    width: 135px;
+    /* height: 36px; */
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    
+    
+}
+
+.sign-up-btn{
+    
+    width: 140px;
+    /* height: 62px; */
+    border-radius: 7px;
+    line-height: 36px;
+    font-size: 24px;
+    /* padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 15px;
+    padding-bottom: 15px; */
+    padding:12px 22px ;
+    color: white;
+    background-color: black;
+    margin-right: 30px;
+
+}
+
+

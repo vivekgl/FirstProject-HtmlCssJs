@@ -1,0 +1,95 @@
+.footer-sec{
+    display: flex;
+    justify-content: space-between;
+    padding:70px 70px;
+    background: black;
+    z-index: 0;
+}
+.footer-sec-1{
+width: 100%;
+}
+.fashion-2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 900;
+    color: white;
+    margin-top: 10px;
+}
+.complete{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 20px;
+    color: grey;
+    font-weight: 500;
+    max-width: 400px;
+}
+
+.sec-footer-1{
+    position: relative;
+    
+}
+.plane-box1{
+    position: absolute;
+    left: 0px;
+    z-index: 1;
+}
+.facebook{
+    position: absolute;
+    z-index: 2;
+    left: 20px;
+    top: 12px;
+}
+.plane-box2{
+    position: absolute;
+    left: 60px;
+    z-index: 1;
+}
+.instagram{
+    position: absolute;
+    left: 75px;
+    top: 15px;
+    z-index: 2;
+}
+.plane-box3{
+    position: absolute;
+    left: 120px;
+    z-index: 1;
+}
+.twitter{
+    position: absolute;
+    left: 135px;
+    top: 15px;
+    z-index: 2;
+}
+.plane-box4{
+    position: absolute;
+    left: 180px;
+    z-index: 1;
+}
+.in{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 22px;
+    position: absolute;
+    left: 195px;
+    top: -11px;
+    z-index: 2;
+    font-weight: 600;
+}
+.footer-all-sec{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.first-sec p,.second-sec p,.third-sec p{
+    color:grey;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 15px;
+  
+}
+p.company-2, p.quick-link, p.legal{
+    font-size: 16px;
+    color: white;
+}

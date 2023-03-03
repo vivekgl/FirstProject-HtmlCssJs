@@ -1,0 +1,186 @@
+.img-arr{
+    position: absolute;
+    left: 304px;
+    top: 935px;
+    width: 160px;
+    height: 22px;
+    
+}
+.new-arrival{
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.06em;
+    left: 124px;
+   
+    
+}
+.img1st{
+    width: 360px;
+    height: 550px;
+    margin-top: 200px;
+}
+.hoodies{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 50px;
+    letter-spacing: -0.04em;
+    color: black;
+    margin-bottom: 0px;
+    margin-top: 10px;
+
+}
+.explore{
+    margin-top: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.04em;
+    color: grey;
+}
+.sec1-container,.sec2-container,.sec3-container{
+    display: flex;
+    flex-direction: column;
+
+}
+.sec1-container{
+    margin-left: 120px;
+}
+.sec3-container{
+    margin-right:120px;
+}
+.details{
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+.rightArrow{
+    border: none;
+    color: grey;
+    font-size: 25px;
+    background: none;
+}
+.all-sec{
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+}
+
+
+
+
+
+/* from here onwards */
+
+.image2-50{
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover; */
+    
+    
+    
+    
+    
+}
+.star1,.star2,.star3,.star4{
+    position: absolute;
+    /* border: 1px solid yellow; */
+    /* background-color: yellow; */
+    width: 50px;
+    height: 50px;
+}
+.star1{
+    left: 100px;
+    top: 1980px;
+}
+.star2{
+    left: 160px;
+    top: 2200px;
+}
+.star3{
+    left: 660px;
+    top: 1930px ;
+}
+.star4{
+    left: 700px ;
+    top:2380px ;
+}
+
+.white-box-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 130px;
+    
+
+}
+.name-div{
+    width: 75%;
+    margin-left: -5px;
+    background: linear-gradient(1.32deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+}
+.img-star-container{
+    width: 100%;
+    margin-bottom: -5pxpx;
+    /* background: linear-gradient(1.32deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%); */
+}
+
+.pay-day{
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100px;
+    font-size: 65px;
+    top: 1910px;
+    margin-bottom: 0px;
+
+}
+.name-div2{
+    margin-top: 110px;
+    margin-left: 85px;
+}
+.image-rect{
+    margin-left: -16px;
+    height: 100px;
+    width: 320px;
+}
+.sale-now{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 75px;
+    font-size: 65px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.sentence,.date,.tc{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 40px;
+    margin-bottom: 0px
+}
+.date{
+    font-weight: bold;
+    
+}
+.tc{
+    margin-top: 0px;
+    line-height: 30px;
+}
+.shop-button{
+    color: white;
+    background-color: black;
+    padding: 18px 28px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 7px;
+}

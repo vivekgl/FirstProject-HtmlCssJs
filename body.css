@@ -1,0 +1,64 @@
+.h2-body{
+    width: 340px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    margin-bottom: 0px;
+    line-height: 80px;
+    margin:10px;
+    margin-left: 0px;
+}
+.unique{
+    position: absolute;
+    top: 330px;
+    
+}
+.back-img{
+    width: 390px;
+    margin-left: -25px;
+    height: 85px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+.p-left{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.05em;
+}
+.paint-logo{
+    width: 120px;
+    height: 23.96px;
+    margin-right: 25px;
+}
+.shop-btn{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 45px;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 30px;
+    
+}
+.left-section{
+    margin-left: 160px;
+    margin-top: 40px;
+}
+.mid-section-container{
+    display: flex;
+    flex-direction: row;
+
+}
+.image{
+    width: 620px;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 65px;
+}

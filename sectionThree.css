@@ -1,0 +1,175 @@
+
+.sec-3-box{
+    margin-top: 155px;
+    margin-left: 120px;
+}
+
+.young-line{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 75px;
+    font-size: 40px;
+    letter-spacing: 0.06em;
+}
+.young-logo{
+    position: relative;
+    z-index: -1;
+    left: 256px;
+    top: -73px;
+    height: 22px;
+    width: 162px;
+}
+.sec3-imgs{
+    margin-left: 120px;
+    margin-right:120px ;
+    display: flex;
+    justify-content: space-between;
+}
+.sec3-img1,.sec3-img2{
+    width: 620px;
+}
+.sentence-container{
+    margin-left: 190px;
+    margin-right:218px;
+    margin-top: 260px;
+}
+.download-app{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50px;
+    font-size: 40px;
+    margin-bottom: 0px;
+    max-width: 400px;
+}
+.get30{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.04em;
+    color: grey;
+    max-width: 325px;
+}
+.google-play{
+    max-width:320px ;
+    display: flex;
+    justify-content: space-between;
+}
+.play-store,.app-store{
+    height: 45px;
+    margin-top: 10px;
+    width: 155px;
+}
+.ellipse-container{
+    position: relative;
+}
+.ellipse-1{
+    position: absolute;
+    width: 460px;
+    height: 460px;
+    right: 65px;
+    top: -223px;
+    z-index: -2;
+}
+.ellipse-2{
+    position: absolute;
+    width: 385px;
+    height: 385px;
+    right: 100px;
+    top: -185px;
+    z-index: -1;
+}
+.ellipse-3{
+    position: absolute;
+    width: 560px;
+    height: 560px;
+    right: 16px;
+    top: -275px;
+    z-index: -3;
+}
+.mobile-display{
+    position: absolute;
+    z-index: 0;
+    right: 66px;
+    top: -395px;
+    height: 800px;
+}
+.ellipse-4{
+    position: absolute;
+    right: 547px;
+    top: -279px;
+}
+.ellipse-5{
+    position: absolute;
+    right: 32px;
+    top: -275px;
+}
+.ellipse-6{
+    position: absolute;
+    right: 0px;
+    top: 218px;
+}
+.ellipse-7{
+    position: absolute;
+    right: 561px;
+    top: 254px;
+}
+
+.section-4-box{
+    margin-top:550px ;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: #E5C643;
+    
+}
+
+.join-shop{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50px;
+    font-size: 40px;
+    max-width: 700px;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+.type-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    color: white;
+    margin-top: 8px;
+    font-size: 23px;
+    letter-spacing: 0.03em;
+}
+.both{
+    background-color: white;
+    margin-bottom: 120px;
+    border-radius: 8px;
+    
+}
+.input{
+    border: none;
+    width: 294px;
+    padding:20px 28px ;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.send{
+    background-color: black;
+    color: white;
+    padding:10px 20px;
+    font-size: 22px;
+    margin-right: 10px;
+    border-radius: 8px;
+    
+
+}
